@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^\\+?[0-9\\s\\-()]{7,}$"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2025-01-15T14:01:10.5868342Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2025-01-15T14:03:06.0177232Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "71d3dc4b-d66f-4e87-a9fd-553e64c45f53",
+  "Code": null,
+  "Name": "PhoneExpression"
+}

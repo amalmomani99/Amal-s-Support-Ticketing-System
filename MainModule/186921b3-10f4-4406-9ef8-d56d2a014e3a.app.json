@@ -1,0 +1,69 @@
+{
+  "ProcessId": null,
+  "ProcessCode": null,
+  "Description": null,
+  "RefPattern": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "VR-year-seq"
+  },
+  "AppKey": "480637c1-8e78-4d1e-9438-8a02c80fd705",
+  "EnableSendNotification": null,
+  "TaskPageId": null,
+  "EnableAutoSave": null,
+  "ShowActions": null,
+  "AutoSavePeriod": 1.0,
+  "EnableComplexPattern": null,
+  "PatternConfiguration": {
+    "ResetEveryMiddle": null,
+    "ResetEveryPrefix": null,
+    "ResetEverySuffix": null,
+    "Prefix": null,
+    "Middle": null,
+    "Suffix": null,
+    "Separator": null
+  },
+  "HideTaskDetails": null,
+  "EnableCloneAppRequest": null,
+  "UniqueSubmissionErrorMessage": null,
+  "AppDomainConfigList": [],
+  "AppDataMappingList": [],
+  "AppActionList": [],
+  "AppStateList": [],
+  "AppFormList": [
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "ActionId": "00000000-0000-0000-0000-000000000000",
+      "StateId": "00000000-0000-0000-0000-000000000000",
+      "FormId": "e29bbfc6-2829-4dbf-8741-9331cc7c18fc",
+      "Order": 0,
+      "IsDefault": true,
+      "ShowInViewRequest": false,
+      "EnableView": false,
+      "DisplayForm": 0
+    },
+    {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "ActionId": "00000000-0000-0000-0000-000000000000",
+      "StateId": "00000000-0000-0000-0000-000000000000",
+      "FormId": "e29bbfc6-2829-4dbf-8741-9331cc7c18fc",
+      "Order": 1,
+      "IsDefault": false,
+      "ShowInViewRequest": true,
+      "EnableView": true,
+      "DisplayForm": 0
+    }
+  ],
+  "StateLabelList": null,
+  "AppStateLabelList": [],
+  "CreatedBy": 40,
+  "CreationDate": "2025-01-12T13:24:28.3293032Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2025-01-12T13:24:28.4044023Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "186921b3-10f4-4406-9ef8-d56d2a014e3a",
+  "Code": "App_AMAL_SUPPORT_TICKETING_SYSTEM_DB",
+  "Name": "Amal_Support_Ticketing_System_DB"
+}

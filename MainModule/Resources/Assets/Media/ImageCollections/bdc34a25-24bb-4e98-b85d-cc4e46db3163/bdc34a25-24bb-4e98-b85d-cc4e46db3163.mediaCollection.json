@@ -1,0 +1,46 @@
+{
+  "Sequence": null,
+  "Name": "Support_Ticketing_System",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "153b8bc1-e50d-4d4c-bff1-7f8d43da4004",
+      "Name": "Logo.png",
+      "File": null
+    },
+    {
+      "Id": "4669206f-52e8-4f90-b3ca-ef79f3d36cba",
+      "Name": "homepage-one-banner.jpg",
+      "File": null
+    },
+    {
+      "Id": "cbec3e80-fdfe-4051-ba0b-2287266f7c4a",
+      "Name": "sponsors-bg.jpg",
+      "File": null
+    },
+    {
+      "Id": "83a56f15-accb-469e-838e-dcad5cd251fb",
+      "Name": "cta-bg.jpg",
+      "File": null
+    },
+    {
+      "Id": "1a69c0c0-13db-4439-b268-c78e3aa9b453",
+      "Name": "features-2.jpg",
+      "File": null
+    },
+    {
+      "Id": "36991ff8-539a-48e9-aeb5-405e3046464c",
+      "Name": "quote-bg.jpg",
+      "File": null
+    }
+  ],
+  "CreatedBy": "40",
+  "CreationDate": "2025-01-12T18:33:02.5683888Z",
+  "ModifiedBy": "40",
+  "ModificationDate": "2025-01-12T19:42:58.0675976Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "bdc34a25-24bb-4e98-b85d-cc4e46db3163",
+  "MaestroBlocksEntityState": 0
+}

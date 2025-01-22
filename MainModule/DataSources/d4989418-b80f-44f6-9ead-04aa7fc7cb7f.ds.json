@@ -1,0 +1,162 @@
+{
+  "TypeId": 4,
+  "IsSystem": false,
+  "IsBuiltIn": false,
+  "Host": "172.16.235.28,25521",
+  "Database": "Amal_Support_Ticketing_System_DB",
+  "Port": 0,
+  "Password": "xXfVMswkobiCpkSn4mkRlAS7IboHZt3nhSlfv/7yrIw=",
+  "UserName": "sa",
+  "PrimaryKeyAttributeType": 2,
+  "EntityHistories": [],
+  "AttributesHistories": [],
+  "SyncHistories": [
+    {
+      "Id": "7edccccd-2aa1-43d5-8d83-e291b3baca3f",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "5fc5eb2d-415a-46c0-b55f-54e816127168",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "52c9a307-5ecd-41ad-885b-cbd5b7176354",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "e03225bb-7b2a-4611-9bba-de531e9ac444",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "26c42690-2df1-4a48-afff-af826b81776f",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "9662e3f5-073d-4751-b841-f9f2f7510d60",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "5d1e3d18-5ae9-4101-a754-7a4bb7666f7a",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "dd8925da-334f-467d-8c94-99aa45b36617",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "2b249982-2132-4956-8fbc-f401e05a0bd4",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "30afc148-2f27-4497-9ed3-1dbfcdca6b24",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "414a9e68-bbcd-4c55-9331-fa736df2a4a1",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "71598030-86b8-4e26-8e30-ca581a3e30f0",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "a564d153-0e2a-4e23-9438-451883c00a3e",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    },
+    {
+      "Id": "09f7f6b6-cd1b-46b4-b30c-acca6066ea43",
+      "SyncedInMigrationName": "_11138f41d7fac04bf1b4e7d68efde1c802"
+    }
+  ],
+  "AttributeMigrationTypes": [
+    {
+      "Id": "5fc5eb2d-415a-46c0-b55f-54e816127168",
+      "TypeId": 1,
+      "SyncedInMigrationName": "_283c74e2594cb4a78ae77d2f809345c9f",
+      "IsSynced": true
+    },
+    {
+      "Id": "52c9a307-5ecd-41ad-885b-cbd5b7176354",
+      "TypeId": 1,
+      "SyncedInMigrationName": "_283c74e2594cb4a78ae77d2f809345c9f",
+      "IsSynced": true
+    },
+    {
+      "Id": "e03225bb-7b2a-4611-9bba-de531e9ac444",
+      "TypeId": 8,
+      "SyncedInMigrationName": "_283c74e2594cb4a78ae77d2f809345c9f",
+      "IsSynced": true
+    },
+    {
+      "Id": "26c42690-2df1-4a48-afff-af826b81776f",
+      "TypeId": 73,
+      "SyncedInMigrationName": "_283c74e2594cb4a78ae77d2f809345c9f",
+      "IsSynced": true
+    },
+    {
+      "Id": "5d1e3d18-5ae9-4101-a754-7a4bb7666f7a",
+      "TypeId": 2,
+      "SyncedInMigrationName": "_41dad3fb75dd9455493c901ba9fd754f9",
+      "IsSynced": true
+    },
+    {
+      "Id": "dd8925da-334f-467d-8c94-99aa45b36617",
+      "TypeId": 1,
+      "SyncedInMigrationName": "_41dad3fb75dd9455493c901ba9fd754f9",
+      "IsSynced": true
+    },
+    {
+      "Id": "2b249982-2132-4956-8fbc-f401e05a0bd4",
+      "TypeId": 8,
+      "SyncedInMigrationName": "_7865d5d292d14430d9bf6421114edcae0",
+      "IsSynced": true
+    },
+    {
+      "Id": "414a9e68-bbcd-4c55-9331-fa736df2a4a1",
+      "TypeId": 1,
+      "SyncedInMigrationName": "_7865d5d292d14430d9bf6421114edcae0",
+      "IsSynced": true
+    },
+    {
+      "Id": "71598030-86b8-4e26-8e30-ca581a3e30f0",
+      "TypeId": 1,
+      "SyncedInMigrationName": "_7865d5d292d14430d9bf6421114edcae0",
+      "IsSynced": true
+    },
+    {
+      "Id": "a564d153-0e2a-4e23-9438-451883c00a3e",
+      "TypeId": 2,
+      "SyncedInMigrationName": "_7865d5d292d14430d9bf6421114edcae0",
+      "IsSynced": false
+    },
+    {
+      "Id": "09f7f6b6-cd1b-46b4-b30c-acca6066ea43",
+      "TypeId": 8,
+      "SyncedInMigrationName": "_99413f64efd5349228fbd541553c80883",
+      "IsSynced": true
+    },
+    {
+      "Id": "a564d153-0e2a-4e23-9438-451883c00a3e",
+      "TypeId": 1,
+      "SyncedInMigrationName": "_102da6cf000bf34a0d8024ccc3a1841a3d",
+      "IsSynced": true
+    }
+  ],
+  "Schemas": [
+    "dbo"
+  ],
+  "MigrationHistroyTableName": null,
+  "MigrationsTableName": "MaestroMigrations_d4989418b80f44f69ead04aa7fc7cb7f",
+  "HasHistories": true,
+  "IsEncrypted": true,
+  "CreatedBy": 40,
+  "CreationDate": "2025-01-12T13:11:31.4720947Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2025-01-15T14:11:40.5158798Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "d4989418-b80f-44f6-9ead-04aa7fc7cb7f",
+  "Code": "",
+  "Name": "Amal_Support_Ticketing_System_DB"
+}
